@@ -1,8 +1,20 @@
 <img src="https://i.postimg.cc/Y00v3CSZ/Banner-dev.jpg" alt="mi banner">
 
 
- 👋Hola, me llamo Roque, soy Analista en TIC`s y programador backend. Apesar de estar formado profesionalmente, me encanta seguir aprendiendo, conocer nuevas herramientas y
- seguir capacitandome constatemente.Mis Skills son Java, MySQL, PL/SQL, HTML y CSS.
+ # 👋Hola, me llamo Roque, soy Analista en TIC y desarrollador backend 💻
+ 
+ ## Lenguajes y frameworks
+ 
+ ✔ JAVA
+ ✔ SPRING
+ ✔ JPA
+ ✔ HTML
+ ✔ CSS
+ 
+ ## Contactame
+ <a href="https://www.linkedin.com/in/roque-alberto-espinoza-6b549b197/"><img src="https://i.postimg.cc/VNmPbQ7C/linkedin.png"></a>
+ 
+ 
 
 
 
